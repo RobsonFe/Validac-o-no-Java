@@ -1,7 +1,5 @@
 # Validação no Java Sem Bibliotecas
 
-![Banner](link_para_sua_imagem_banner)
-
 ## Introdução
 
 Bem-vindo(a) ao repositório **ValidaçãoNoJavaSemLib**, um lugar onde exploramos o empolgante mundo da validação em Java, tudo isso sem a necessidade de depender de bibliotecas externas. Se você já se perguntou como poderia realizar validações de entrada de dados sem recorrer a bibliotecas prontas, você está no lugar certo!
